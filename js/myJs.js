@@ -7,8 +7,8 @@ const textConfig = {
   text6: "Hí hí Đúng r á a<3",
   text7: "Em còn tính xấu nào nữa hông á :vvvv",
   text8: "Gửi a Huy <3",
-  text9: "haha đúng r",
-  text10: "A biết mà ^^ E còn hay nói xạo nữa",
+  text9: "nói xạo, không uy tín á a",
+  text10: "A biết mà ^^ E còn hay nói xạo và nỏ uy tín nữa",
   text11:
     "Bình tĩnh nha e nha :v Có gì thì từ từ nói",
   text12: "Okii <3",
